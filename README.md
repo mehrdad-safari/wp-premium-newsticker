@@ -1,15 +1,15 @@
-##### News Ticker WordPress Plugin ####
+## News Ticker WordPress Plugin ##
 This plugin put fancy news ticker to every where you want and make your site look interesting.
 very easy to use plugin to display news headline or any text you want with a type effect
 
 ## Screenshot
-![screenshot](https://github.com/mehrdad-safari/premium-newsticker/blob/master/screenshots/demo.gif)
+![screenshot](https://raw.githubusercontent.com/mehrdad-safari/wp-premium-newsticker/master/screenshots/demo.gif)
 
 
-##############
-![screenshot](https://github.com/mehrdad-safari/premium-newsticker/blob/master/screenshots/screenshot-1.jpg)
-![screenshot](https://github.com/mehrdad-safari/premium-newsticker/blob/master/screenshots/screenshot-2.png)
-![screenshot](https://github.com/mehrdad-safari/premium-newsticker/blob/master/screenshots/screenshot-3.png)
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/mehrdad-safari/wp-premium-newsticker/master/screenshots/screenshot-1.jpg)
+![screenshot](https://raw.githubusercontent.com/mehrdad-safari/wp-premium-newsticker/master/screenshots/screenshot-2.jpg)
+![screenshot](https://raw.githubusercontent.com/mehrdad-safari/wp-premium-newsticker/master/screenshots/screenshot-3.jpg)
 
 
 ## How To Install
