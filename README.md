@@ -8,8 +8,8 @@ very easy to use plugin to display news headline or any text you want with a typ
 
 ## Screenshot
 ![screenshot](https://raw.githubusercontent.com/mehrdad-safari/wp-premium-newsticker/master/screenshots/screenshot-1.jpg)
-![screenshot](https://raw.githubusercontent.com/mehrdad-safari/wp-premium-newsticker/master/screenshots/screenshot-2.jpg)
-![screenshot](https://raw.githubusercontent.com/mehrdad-safari/wp-premium-newsticker/master/screenshots/screenshot-3.jpg)
+![screenshot](https://raw.githubusercontent.com/mehrdad-safari/wp-premium-newsticker/master/screenshots/screenshot-2.png)
+![screenshot](https://raw.githubusercontent.com/mehrdad-safari/wp-premium-newsticker/master/screenshots/screenshot-3.png)
 
 
 ## How To Install
